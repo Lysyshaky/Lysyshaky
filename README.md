@@ -1,3 +1,3 @@
-### My portfolio 👨‍💻
+### 👨‍💻 My portfolio 👨‍💻
 
 https://lysyshaky.github.io/
