@@ -1,6 +1,6 @@
 ###
 
-Hi there 👋 I am Sailesh Dahal from Nepal 🇳🇵
+Hi there 👋 I am Yurii Lysyshak from Ukraine🇳🇵
 💻 I’m currently working on Freelance Projects
 🌱 I’m currently learning TypeScript
 👯 I’m looking to collaborate on Flutter Projects
