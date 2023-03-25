@@ -31,7 +31,7 @@ I also provide guidance and consultation to other members of the development tea
                                      <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723454-6454c8c6-493b-4c9e-b412-1d0c86709271.png" width="60" height="60" alt="Figma"" /></a>
                             
                  
-             
+            /p>
                     
                     
 ### Socials
