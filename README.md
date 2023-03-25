@@ -4,8 +4,6 @@
 https://lysyshaky.github.io/
 
 
-### Hello 👋
-
 ### Mobile App Developer | UX/UI Designer 
 
 I have expertise in:
