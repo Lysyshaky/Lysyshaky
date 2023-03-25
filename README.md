@@ -38,9 +38,8 @@ I also provide guidance and consultation to other members of the development tea
                   
 <p align="left">  
                       <a href="https://github.com/lysyshaky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-                      <a href="http://www.instagram.com/4x.mafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
-                      <a href="https://www.stackoverflow.com/users/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
-                      <a href="https://www.twitter.com/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                      <a href="http://www.instagram.com/lysyshaky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
+                      <a href="https://www.stackoverflow.com/users/lysyshaky " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
     
 More about Me
 ---
