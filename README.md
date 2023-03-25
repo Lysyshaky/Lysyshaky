@@ -27,9 +27,11 @@ I also provide guidance and consultation to other members of the development tea
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723543-9c0aef11-012d-490c-905c-4f8e7484cc98.png" width="36" height="36" alt="Kotlin" />
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+                                       <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723454-6454c8c6-493b-4c9e-b412-1d0c86709271.png" width="60" height="60" alt="Figma" /></a>
+                                 
                                   
                                    
-                            
+                           
                  
        
                     
