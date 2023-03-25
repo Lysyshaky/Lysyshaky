@@ -39,7 +39,7 @@ I also provide guidance and consultation to other members of the development tea
                       <a href="https://github.com/lysyshaky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
                       <a href="http://www.instagram.com/lysyshaky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
                       <a href="https://www.stackoverflow.com/users/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;  
-             <a href="https://telegram.me/lysyshaky" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723220-7318e48b-b166-4675-9900-a6d0069fa6d8.png" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;  
+             <a href="https://telegram.me/lysyshaky" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723220-7318e48b-b166-4675-9900-a6d0069fa6d8.png" width="50" height="32" /></a>&nbsp;&nbsp;&nbsp;  
   
 
 
